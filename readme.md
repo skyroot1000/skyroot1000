@@ -1,0 +1,118 @@
+<p align='center'>
+<a href="https://t.me/kroim1202">
+  <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="https://join.skype.com/invite/eumi2mzscGm8">
+  <img src="https://img.shields.io/badge/skype-%231DA1F3.svg?&style=for-the-badge&logo=skype&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="https://discord.gg/5ZvnBKee">
+  <img src="https://img.shields.io/badge/discord-%230077B5.svg?&style=for-the-badge&logo=discord&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/kroim1202">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="mailto:kjipgnysjh2@gmail.com">
+  <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+</a>&nbsp;&nbsp;
+</p>
+
+### 𝐒𝐤𝐢𝐥𝐥s
+<table>
+  <tr>
+      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_defi.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_pancake.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_solidity.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_truffle.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_metamask.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_pivx.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_bitcoin.png?raw=true" width="200"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-128/javascript-1174950.png" width="200"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-128/node-1174925.png" width="200"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-128/react-1175109.png" width="200"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-128/vue-282497.png" width="200"></td>
+  </tr>  
+</table>
+
+### DeFi Experiences
+<table>
+    <thead align="center">
+        <tr>
+            <td>PotatoPowerClue</td>
+            <td>CryptoPigs</td>           
+            <td>DogePass</td>
+            <td>FunkiFoxes</td>
+        </tr>
+    </thead>
+    <tr>
+        <td>
+            <a href="https://mint.potatopower.club/">
+                <img src="https://github.com/kroim/profile/blob/master/projects/PotatoPowerClub.png?raw=true" width="200">
+            </a>
+        </td>
+        <td>
+            <a href="https://cryptopigs.one/#/">
+                <img src="https://github.com/kroim/profile/blob/master/projects/CryptoPig.png?raw=true" width="200">
+            </a>
+        </td>           
+        <td>
+            <a href="https://nft.dogepass.io/">
+                <img src="https://github.com/kroim/profile/blob/master/projects/DogePass.png?raw=true" width="200">
+            </a>
+        </td>
+        <td>
+            <a href="https://funkifoxes.com/">
+                <img src="https://github.com/kroim/profile/blob/master/projects/FunkiFoxes.png?raw=true" width="200">
+            </a>
+        </td>                  
+    </tr>
+    <thead align="center">
+        <tr>
+            <td>IgarataArtNFT</td>
+            <td>RabbitNFT</td>
+            <td>CosmicSwap</td>
+            <td>DDEXX INFO</td>
+        </tr>
+    </thead>
+    <tr>
+        <td>
+            <a href="http://18.188.94.167:5000/">
+                <img src="https://github.com/kroim/profile/blob/master/projects/igaratanft.png?raw=true" width="200">
+            </a>
+        </td>        
+        <td>
+            <a href="https://rabbitnft.com/">
+                <img src="https://github.com/kroim/profile/blob/master/projects/rabbitnft.png?raw=true" width="200">
+            </a>
+        </td>   
+        <td>
+            <a href="https://app.cosmicswap.finance/">
+                <img src="https://github.com/kroim/profile/blob/master/projects/cosmicswap.png?raw=true" width="200">
+            </a>
+        </td>          
+        <td>
+            <a href="http://analytics.ddexx.io">
+                <img src="https://github.com/kroim/profile/blob/master/projects/ddexinfo.png?raw=true" width="200">
+            </a>
+        </td>           
+    </tr>
+    <thead align="center">
+        <tr>
+            <td>MaticSwap</td>  
+        </tr>
+    </thead>
+    <tr>
+        <td>
+            <a href="https://maticfront.web.app/farms">
+                <img src="https://github.com/kroim/profile/blob/master/projects/maticswap.png?raw=true" width="200">
+            </a>
+        </td> 
+    </tr>       
+</table>
+
+#### I am a blockchain developer in senior level and work in DeFi projects.
+- NFT Mint websites like Cryptopunks, NFT marketplaces like Rarible.
+- Fork of PancakeSwap, GooseDeFi, PantherSwap.
+- Decentralized Exchanges with TradingView.
+- Token Bridge, Block Explorer.
+- Smart contracts for erc20, erc721 with token pre-sale, redistribution, etc.
