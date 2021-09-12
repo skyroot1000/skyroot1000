@@ -1,6 +1,15 @@
-<p align='center'>
-skype Id: skyroot1000@outlook.com
+<p>
+  email: skyroot1022@gmail.com
+  skype: live:.cid.757f2b275697cc96
+  Discord: skyroot#7524
 </p>
+
+#### I am a blockchain developer in senior level and work in DeFi projects.
+- NFT Mint websites like Cryptopunks, NFT marketplaces like Rarible.
+- Fork of PancakeSwap, GooseDeFi, PantherSwap.
+- Decentralized Exchanges with TradingView.
+- Token Bridge, Block Explorer.
+- Smart contracts for erc20, erc721 with token pre-sale, redistribution, etc.
 
 ### 𝐒𝐤𝐢𝐥𝐥s
 <table>
@@ -94,10 +103,3 @@ skype Id: skyroot1000@outlook.com
         </td> 
     </tr>       
 </table>
-
-#### I am a blockchain developer in senior level and work in DeFi projects.
-- NFT Mint websites like Cryptopunks, NFT marketplaces like Rarible.
-- Fork of PancakeSwap, GooseDeFi, PantherSwap.
-- Decentralized Exchanges with TradingView.
-- Token Bridge, Block Explorer.
-- Smart contracts for erc20, erc721 with token pre-sale, redistribution, etc.
