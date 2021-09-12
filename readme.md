@@ -1,9 +1,7 @@
-### Contact Me
-<p>
-  email: skyroot1022@gmail.com
-  skype: live:.cid.757f2b275697cc96
-  Discord: skyroot#7524
-</p>
+#### Contact Me
+- email: skyroot1022@gmail.com
+- skype: live:.cid.757f2b275697cc96
+- Discord: skyroot#7524
 
 #### I am a blockchain developer in senior level and work in DeFi projects.
 - NFT Mint websites like Cryptopunks, NFT marketplaces like Rarible.
