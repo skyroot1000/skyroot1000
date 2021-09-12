@@ -3,7 +3,7 @@
 - skype: live:.cid.757f2b275697cc96
 - Discord: skyroot#7524
 
-#### I am a blockchain developer in senior level and work in DeFi projects.
+#### I am a DeFi and NFT marketplace developer.
 - NFT Mint websites like Cryptopunks, NFT marketplaces like Rarible.
 - Fork of PancakeSwap, GooseDeFi, PantherSwap.
 - Decentralized Exchanges with TradingView.
