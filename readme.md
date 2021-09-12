@@ -16,7 +16,7 @@ skype Id: skyroot1000@outlook.com
     <td><img src="https://github.com/skyroot1000/profile/blob/main/solidity.png?raw=true" width="200"></td>
     <td><img src="https://github.com/skyroot1000/profile/blob/main/csshtmljs.png?raw=true" width="200"></td>
     <td><img src="https://github.com/skyroot1000/profile/blob/main/react.png?raw=true" width="200"></td>
-    <td><img src="https://github.com/skyroot1000/profile/blob/main/laravel.png?raw=true" width="200"></td><td>    
+    <td><img src="https://github.com/skyroot1000/profile/blob/main/laravel.png?raw=true" width="200"></td>   
   </tr>  
 </table>
 
