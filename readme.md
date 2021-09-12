@@ -5,18 +5,18 @@ skype Id: skyroot1000@outlook.com
 ### 𝐒𝐤𝐢𝐥𝐥s
 <table>
   <tr>
-      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true" width="200"></td>
-      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_defi.png?raw=true" width="200"></td>
-      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_pancake.png?raw=true" width="200"></td>
-      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_solidity.png?raw=true" width="200"></td>
-      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_truffle.png?raw=true" width="200"></td>
-      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_metamask.png?raw=true" width="200"></td>
-      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_pivx.png?raw=true" width="200"></td>
-      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_bitcoin.png?raw=true" width="200"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-128/javascript-1174950.png" width="200"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-128/node-1174925.png" width="200"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-128/react-1175109.png" width="200"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-128/vue-282497.png" width="200"></td>
+    <td><img src="https://github.com/skyroot1000/profile/blob/main/btc.jpg?raw=true" width="200"></td>
+    <td><img src="https://github.com/skyroot1000/profile/blob/main/eth.png?raw=true" width="200"></td>
+    <img src="https://github.com/skyroot1000/profile/blob/main/smartcontract.png?raw=true" width="200"></td>
+    <img src="https://github.com/skyroot1000/profile/blob/main/metamask.jpg?raw=true" width="200"></td>
+    <td><img src="https://github.com/skyroot1000/profile/blob/main/defi.jpg?raw=true" width="200"></td>
+    <td><img src="https://github.com/skyroot1000/profile/blob/main/nft.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/skyroot1000/profile/blob/main/dapp.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/skyroot1000/profile/blob/main/c.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/skyroot1000/profile/blob/main/solidity.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/skyroot1000/profile/blob/main/csshtmljs.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/skyroot1000/profile/blob/main/react.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/skyroot1000/profile/blob/main/laravel.png?raw=true" width="200"></td><td>    
   </tr>  
 </table>
 
