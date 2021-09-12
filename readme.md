@@ -40,7 +40,7 @@
     <tr>
         <td>
             <a href="https://fishswap.app/#/">
-                <img src="https://github.com/skyroot1000/profile/blob/main/fish.jpg?raw=true" width="200">
+                <img src="https://github.com/skyroot1000/profile/blob/main/fish.png?raw=true" width="200">
             </a>
         </td>
         <td>
