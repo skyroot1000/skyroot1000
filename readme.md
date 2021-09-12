@@ -31,7 +31,7 @@
 <table>
     <thead align="center">
         <tr>
-            <td>PotatoPowerClue</td>
+            <td>FishSwap</td>
             <td>CryptoPigs</td>           
             <td>DogePass</td>
             <td>FunkiFoxes</td>
