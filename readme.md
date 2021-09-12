@@ -1,5 +1,5 @@
 <p align='center'>
-skype: skyroot1000@outlook.com
+skype Id: skyroot1000@outlook.com
 </p>
 
 ### 𝐒𝐤𝐢𝐥𝐥s
