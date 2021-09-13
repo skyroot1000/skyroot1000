@@ -34,7 +34,7 @@
             <td>FishSwap</td>
             <td>CryptoPigs</td>           
             <td>HANDY ICO</td>
-            <td>FunkiFoxes</td>
+            <td>Gloc Swap</td>
         </tr>
     </thead>
     <tr>
@@ -55,7 +55,7 @@
         </td>
         <td>
             <a href="https://funkifoxes.com/">
-                <img src="https://github.com/skyroot1000/profile/blob/main/handyico.png?raw=true" width="200">
+                <img src="https://github.com/skyroot1000/profile/blob/main/glocswap.png?raw=true" width="200">
             </a>
         </td>                  
     </tr>
