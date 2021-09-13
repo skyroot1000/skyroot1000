@@ -33,7 +33,7 @@
         <tr>
             <td>FishSwap</td>
             <td>CryptoPigs</td>           
-            <td>DogePass</td>
+            <td>HANDY ICO</td>
             <td>FunkiFoxes</td>
         </tr>
     </thead>
@@ -49,13 +49,13 @@
             </a>
         </td>           
         <td>
-            <a href="https://nft.dogepass.io/">
+            <a href="https://handymans.finance/#/">
                 <img src="https://github.com/kroim/profile/blob/master/projects/DogePass.png?raw=true" width="200">
             </a>
         </td>
         <td>
             <a href="https://funkifoxes.com/">
-                <img src="https://github.com/kroim/profile/blob/master/projects/FunkiFoxes.png?raw=true" width="200">
+                <img src="https://github.com/skyroot1000/profile/blob/main/handyico.png?raw=true" width="200">
             </a>
         </td>                  
     </tr>
