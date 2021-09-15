@@ -9,6 +9,7 @@
 - Decentralized Exchanges with TradingView.
 - Token Bridge, Block Explorer.
 - Smart contracts for erc20, erc721 with token pre-sale, redistribution, etc.
+- Website development (frontend & backend)
 
 ### 𝐒𝐤𝐢𝐥𝐥s
 <table>
