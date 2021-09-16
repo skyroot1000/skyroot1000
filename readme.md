@@ -32,7 +32,7 @@
 <table>
     <thead align="center">
         <tr>
-            <td>DonjonSmith</td>
+            <td>DonjonSmit</td>
             <td>FishSwap</td>
             <td>CryptoPigs</td>           
             <td>HANDY ICO</td>            
