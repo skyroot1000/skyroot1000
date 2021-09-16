@@ -35,13 +35,12 @@
             <td>DonjonSmith</td>
             <td>FishSwap</td>
             <td>CryptoPigs</td>           
-            <td>HANDY ICO</td>
-            
+            <td>HANDY ICO</td>            
         </tr>
     </thead>
     <tr>
         <td>
-            <a href="https://portal.donjon-smit.com/#/login">
+            <a href="https://portal.donjon-smit.com">
                 <img src="https://github.com/skyroot1000/profile/blob/main/DonjonSmith.png?raw=true" width="200">
             </a>
         </td> 
