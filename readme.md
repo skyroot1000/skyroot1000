@@ -28,7 +28,7 @@
   </tr>  
 </table>
 
-### DeFi Experiences
+### Web & DeFi & NFT Experiences
 <table>
     <thead align="center">
         <tr>
