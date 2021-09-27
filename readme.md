@@ -3,7 +3,6 @@
 - skype: live:.cid.757f2b275697cc96
 - Discord: skyroot#7524
 
-
 #### I am a DeFi and NFT marketplace developer.
 - NFT Mint websites like Cryptopunks, NFT marketplaces like Rarible.
 - Fork of PancakeSwap, GooseDeFi, PantherSwap.
