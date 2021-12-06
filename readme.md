@@ -27,7 +27,6 @@
     <td><img src="https://github.com/skyroot1000/profile/blob/main/laravel.png?raw=true" width="300"></td>   
   </tr>  
 </table>
-
 ### Web & DeFi & NFT Experiences
 <table>
     <thead align="center">
