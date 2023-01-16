@@ -3,6 +3,7 @@
 - skype: live:.cid.757f2b275697cc96
 - Discord: skyroot#7524
 
+
 #### I am a DeFi and NFT marketplace developer.
 - NFT Mint websites like Cryptopunks, NFT marketplaces like Rarible.
 - Fork of PancakeSwap, GooseDeFi, PantherSwap.
@@ -10,6 +11,7 @@
 - Token Bridge, Block Explorer.
 - Smart contracts for erc20, erc721 with token pre-sale, redistribution, etc.
 - Website development (frontend & backend) html/css/js/Vue/React/Angular/Node/php/Laravel/RoR/Solidity...
+
 
 ### 𝐒𝐤𝐢𝐥𝐥s
 <table>
@@ -27,6 +29,8 @@
     <td><img src="https://github.com/skyroot1000/profile/blob/main/laravel.png?raw=true" width="300"></td>   
   </tr>  
 </table>
+
+
 ### Web & DeFi & NFT Experiences
 <table>
     <thead align="center">
